@@ -69,6 +69,9 @@ Report component specific issues as individual issues in each components reposit
 
 Report project level issues to the .github repo. 
 
+In case of any questions ask us on
+[our discord channel](https://discord.com/channels/1240272304294985800/1311031796372344894).
+
 ## Features
 
 - Schema's: [YANG][yang], others TBD
@@ -90,26 +93,30 @@ Apache License 2.0 [Apache License 2.0](LICENSE), documentation is licensed unde
 
 The SDC project is following the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). More information and links about the CNCF Code of Conduct are [here](code-of-conduct.md).
 
-At the moment, the project is governed by the benevolent dictatorship of @henderiw @steiler @karimra and @hansthienpondt 
-In the long run, we plan to move to a meritocracy-based governance model.
+The project is governed by the [maintainers](https://github.com/sdcio/.project/blob/main/maintainers.yaml) of the
+project.
+
+On the long run we plan to define a written governance.
 
 ## Presentations
 
 Presentations about SDC:
 
+- Container Days 2025: The Cloud-Native Advantage: Intent-based Network Automation - Alexander North & Markus Vahlenkamp
+  , [video](https://www.youtube.com/watch?v=P7cCeGBq3aQ)
 - ONE Summit 2024: [Cloud Native YANG Mgmt - Wim Henderickx, Nokia](https://sched.co/1YUs3), [video](https://www.youtube.com/watch?v=dHOeqbqkN1s)
+
 
 ## Roadmap
 
-1H 2026
-- YANG1.1
-- distributed deployment
-- sensitive configs
-
 2H 2026
+- sensitive configs
 - network wide transactions
 - YANG push
 - NETCONF actions
+
+1H 2027
+- 
 
 ## Join us
 
