@@ -110,13 +110,14 @@ Presentations about SDC:
 ## Roadmap
 
 2H 2026
-- sensitive configs
-- network wide transactions
-- YANG push
+- sensitive configs / secrets
 - NETCONF actions
 
 1H 2027
-- 
+- network wide transactions
+- Scale
+- High availability
+ 
 
 ## Join us
 
